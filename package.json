@@ -1,7 +1,7 @@
 {
   "name": "cobol-syntax-helper",
   "main": "./lib/cobol-syntax-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that helps with the sequence numbers, original syntax of COBOL",
   "keywords": [
   ],
