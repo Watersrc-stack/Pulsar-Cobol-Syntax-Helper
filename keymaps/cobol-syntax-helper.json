@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "cobol-syntax-helper:toggle"
+  },
+  "atom-text-editor[data-grammar='source cobol']": {
+    "enter": "cobol-syntax-helper:newline-with-sequence",
+    "ctrl-alt-s": "cobol-syntax-helper:recalculate-sequence-numbers"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cobol-syntax-helper",
+        "command": "cobol-syntax-helper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cobol-syntax-helper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cobol-syntax-helper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

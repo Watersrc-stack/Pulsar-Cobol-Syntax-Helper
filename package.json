@@ -1,0 +1,22 @@
+{
+  "name": "cobol-syntax-helper",
+  "main": "./lib/cobol-syntax-helper",
+  "version": "1.0.0",
+  "description": "A package that helps with the sequence numbers, original syntax of COBOL",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "cobol-syntax-helper:toggle",
+    "atom-text-editor": [
+      "cobol-syntax-helper:newline-with-sequence",
+      "cobol-syntax-helper:recalculate-sequence-numbers"
+    ]
+  },
+  "repository": "https://fg.water-source.ovh/Watersrc-stack/pulsar-cobol-syntax-helper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

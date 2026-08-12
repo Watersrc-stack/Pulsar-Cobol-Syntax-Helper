@@ -1,0 +1,4 @@
+'scopeName': 'source.cobol'
+'name': 'COBOL'
+'fileTypes': ['cbl', 'cob', 'cpy', 'CBL', 'COB', 'CPY']
+'patterns': []
