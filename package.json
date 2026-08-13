@@ -12,7 +12,7 @@
       "cobol-syntax-helper:recalculate-sequence-numbers"
     ]
   },
-  "repository": "https://fg.water-source.ovh/Watersrc-stack/pulsar-cobol-syntax-helper",
+  "repository": "https://github.com/Watersrc-stack/Pulsar-Cobol-Syntax-Helper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
